@@ -1,0 +1,62 @@
+[
+  {
+    "id": 1,
+    "imageUrl": "https://cdn.pixabay.com/photo/2014/04/26/04/25/woman-332278_960_720.jpg",
+    "englishWord": "happy",
+    "myanmarWord": "ပျော်ရွှင်သော"
+  },
+  {
+    "id": 2,
+    "imageUrl": "https://cdn.pixabay.com/photo/2016/10/06/05/19/couple-1718244_960_720.jpg",
+    "englishWord": "love",
+    "myanmarWord": "အချစ်"
+  },
+  {
+    "id": 3,
+    "imageUrl": "https://cdn.pixabay.com/photo/2016/11/08/05/20/sunset-1807524_960_720.jpg",
+    "englishWord": "friend",
+    "myanmarWord": "သူငယ်ချင်း"
+  },
+  {
+    "id": 5,
+    "imageUrl": "https://cdn.pixabay.com/photo/2017/06/09/16/39/carrots-2387394__340.jpg",
+    "englishWord": "carrot",
+    "myanmarWord": "မုန်လာဥနီ"
+  },
+  {
+    "id": 6,
+    "imageUrl": "https://cdn.pixabay.com/photo/2016/02/13/13/11/oldtimer-1197800__340.jpg",
+    "englishWord": "car",
+    "myanmarWord": "ကား"
+  },
+  {
+    "id": 8,
+    "imageUrl": "https://cdn.pixabay.com/photo/2017/10/13/14/15/fantasy-2847724__340.jpg",
+    "englishWord": "fear",
+    "myanmarWord": "ကြောက်ရွံခြင်း"
+  },
+  {
+    "id": 9,
+    "imageUrl": "https://cdn.pixabay.com/photo/2014/10/23/10/10/dollars-499481__340.jpg",
+    "englishWord": "money",
+    "myanmarWord": "ပိုက်ဆံ"
+  },
+  {
+    "id": 10,
+    "imageUrl": "https://cdn.pixabay.com/photo/2015/11/19/21/10/glasses-1052010__340.jpg",
+    "englishWord": "book",
+    "myanmarWord": "စာအုပ်"
+  },
+  {
+    "id": 11,
+    "imageUrl": "https://cdn.pixabay.com/photo/2011/12/13/14/31/earth-11015__340.jpg",
+    "englishWord": "Earth",
+    "myanmarWord": "ကမ္ဘာ"
+  },
+  {
+    "id": 12,
+    "imageUrl": "https://cdn.pixabay.com/photo/2019/10/03/09/39/traffic-4522805__340.jpg",
+    "englishWord": "traffic jam",
+    "myanmarWord": "ကားပိတ်ခြင်း"
+  }
+]
